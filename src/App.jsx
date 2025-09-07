@@ -28,6 +28,26 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
+      <h1>ROBERTO</h1>
+      <h2>PELAYO  REVENTUN </h2>
+      <p className='aficiones'>Mis aficiones:</p>
+
+      <ul>
+        <li>Programar</li>
+        <li>Jugar tenis</li>
+        <li>Aprender algo nuevo</li>
+        <li>Pasear </li>
+        <li>pasar tiempo con amigos</li>
+      </ul>
+ 
+      <img className="imagenes"src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Paisaje" width="300" />
+
+      <footer>
+        <h2><a href="https://www.google.com">Visita la página de Google</a></h2>
+        <p>© 2025 Mi Proyecto</p>
+
+      </footer>
     </>
   )
 }
