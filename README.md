@@ -11,7 +11,12 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-
+## INTRO
 Corresponde en una primera version al lab W3 S1 M3 D3
-Principales aprendizajes
+
+## Principales aprendizajes
 Trabajar la salida a traves del fichero App.jsx
+
+## ALGUNAS DIFICULTADES
+
+instalo la libreria Tailwind pero no se como usarla, por ahora.
